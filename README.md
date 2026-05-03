@@ -4,6 +4,10 @@
 
 ---
 
+<img width="312" height="403" alt="pngtree-wind-turbines-standing-tall-in-field-harnessing-wind-energy-at-sunset-photo-photo-image_65223070" src="https://github.com/user-attachments/assets/57289c5c-04c4-4016-ba94-cb53144aeee1" />
+
+
+---
 ##  Overview
 
 DEPI-Grid is an AI-powered platform designed to optimize the performance, reliability, and maintenance of hybrid renewable energy systems (Wind & Solar).
