@@ -1,0 +1,19 @@
+# Python & Environments
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# MacOS/Windows Junk
+.DS_Store
+Thumbs.db
+
+# Data Sourcing (Protect GitHub from massive Kaggle datasets)
+data/raw/*
+data/cleaned/*
+!data/.gitkeep
+
+# Knowledge Base (Keep PDFs local)
+knowledge_base/manuals/*.pdf
+!knowledge_base/manuals/.gitkeep
