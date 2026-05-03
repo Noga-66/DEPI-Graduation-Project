@@ -4,7 +4,8 @@
 
 ---
 
-<img width="312" height="403" alt="pngtree-wind-turbines-standing-tall-in-field-harnessing-wind-energy-at-sunset-photo-photo-image_65223070" src="https://github.com/user-attachments/assets/57289c5c-04c4-4016-ba94-cb53144aeee1" />
+<img width="499" height="332" alt="500px-Wind_power_plants_in_Xinjiang,_China" src="https://github.com/user-attachments/assets/ee05e6d8-cd6c-44ff-9464-92b2a8734e9d" />
+
 
 
 ---
