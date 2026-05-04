@@ -9,6 +9,10 @@
 
 
 ---
+
+🔗 **[mini first live Demo](https://pccdmj7kygh53rybwvfxcg.streamlit.app/)**
+
+---
 ##  Overview
 
 DEPI-Grid is an AI-powered platform designed to optimize the performance, reliability, and maintenance of hybrid renewable energy systems (Wind & Solar).
