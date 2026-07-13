@@ -1,0 +1,1 @@
+{"features": ["IRRADIATION", "MODULE_TEMPERATURE", "AMBIENT_TEMPERATURE"], "target": "DC_POWER", "daylight_threshold_irradiation": 0.05, "anomaly_deficit_threshold_pct": 0.15, "rolling_window_intervals": 288}
