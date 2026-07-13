@@ -1,0 +1,13 @@
+# DATA ENGINEERING & STREAMING
+confluent-kafka==2.3.0    # To talk to the Kafka container
+pandas==2.2.0             # For the Data Wrangler to clean CSVs
+psycopg2-binary==2.9.9    # To talk to PostgreSQL/TimescaleDB
+
+# MLOps & API
+fastapi==0.109.0          # For the API Builder
+uvicorn==0.27.0           # The server to run FastAPI
+python-multipart==0.0.6   # For handling file uploads (PDF manuals)
+
+# DATA SCIENCE & XAI 
+scikit-learn==1.4.0
+matplotlib==3.8.2
